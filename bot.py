@@ -1,6 +1,3 @@
-# ©️ LISA-KOREA | @LISA_FAN_LK | NT_BOT_CHANNEL | @NT_BOTS_SUPPORT | LISA-KOREA/UPLOADER-BOT-V4
-
-# [⚠️ Do not change this repo link ⚠️] :- https://github.com/LISA-KOREA/UPLOADER-BOT-V4
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
@@ -27,5 +24,5 @@ if __name__ == "__main__" :
         api_hash=Config.API_HASH,
         plugins=plugins)
 
-    print("🎊 I AM ALIVE 🎊  • Support @NT_BOTS_SUPPORT")
+    print("🎊 I AM ALIVE 🎊  •")
     Ntbots.run()
